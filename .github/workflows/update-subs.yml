@@ -1,4 +1,4 @@
-name: 更新订阅文件并刷新 README
+name: 自动更新订阅文件并刷新
 
 on:
   schedule:
